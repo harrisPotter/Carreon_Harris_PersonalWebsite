@@ -8,7 +8,16 @@ html {
 
 .prof-box {
 		width: 400px;
-		height: 500px;
+		height: 400px;
 		background: rgba(0,0,0,0.4);
+		color: white;
+		padding: 40px;
 		margin: 0 auto;
+		margin-top: 140px;
+	}
+
+.prof-pic{
+		border-radius: 50%;
+		height: 200px;
+		weight: 200px;
 	}
