@@ -32,5 +32,9 @@ h1 {
    }
 
 .social-links {
-		font-size: 30px;
+		   font-size: 30px;
 	      }
+
+.social-links a {
+		   color: white;
+	       }
