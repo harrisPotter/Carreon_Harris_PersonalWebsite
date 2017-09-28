@@ -9,14 +9,17 @@ html {
      }
 
 .prof-box {
+
+		
 		width: 400px;
 		height: 400px;
-		background: rgba(0,0,0,0.4);
+		background: rgba(0,0,0,0.6);
 		color: white;
 		padding: 40px;
 		margin: 0 auto;
-		margin-top: 140px;
 		text-align: center;
+		border-radius: 10px;
+		
 	  }
 
 .prof-pic {
@@ -41,7 +44,41 @@ h1 {
 
 .line {
 	  width: 400px;
-	  margin: 0 auto;
+	  margin: 0;
 	  border-top: 1px solid white;
       }
+
+.nav_bar {	
+		background: rgba(0,0,0,0.6);
+		border-bottom: 1px solid #000000;
+		width: 1285px;
+		height: 64px;
+		padding: 80px 10px 20px 55px; 
+	 }
+
+.nav_bar ul {
+		padding: 0;
+		list-style: none;
+		
+	    }
+
+.nav_bar ul li {
+		   float: left;
+		   font-family: Century Gothic;
+		   font-size: 16px;
+		   font-weight: bold;
+		   margin-right: 10px;
+		   margin-left: 20px;
+
+		   
+		}
+
+.nav_bar ul li a {
+		     padding: 20px 0px 0px 20px;
+		     text-decoration: none;
+		     color: white;
+		     width: 250px;
+		     display: block;
+		     text-align: center;
+		 }
 
