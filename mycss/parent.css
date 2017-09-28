@@ -4,13 +4,15 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  font-family: 'Roboto';
+
 }
 
 .prof-box {
 		width: 400px;
 		height: 400px;
 		background: rgba(0,0,0,0.4);
-		color: black;
+		color: white;
 		padding: 40px;
 		margin: 0 auto;
 		margin-top: 140px;
@@ -21,4 +23,10 @@ html {
 		border-radius: 50%;
 		height: 200px;
 		weight: 200px;
+	}
+
+h1 {
+	font-weight: 100;
+	letter-spacing: 5;
+	font-size: 35px;
 	}
