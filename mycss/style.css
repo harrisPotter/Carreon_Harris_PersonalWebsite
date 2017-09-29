@@ -9,14 +9,12 @@ html {
      }
 
 .prof-box {
-
-		
 		width: 400px;
 		height: 400px;
 		background: rgba(0,0,0,0.5);
 		color: white;
 		padding: 40px;
-		margin: 0 auto;
+		margin-left: 150px;
 		text-align: center;
 		border-radius: 10px;
 		
