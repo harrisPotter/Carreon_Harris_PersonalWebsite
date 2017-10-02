@@ -154,6 +154,8 @@ h3 {
 		height: 400px;
 		padding: 40px;
 		margin-left: 150px;
+    		
+		
 	}
 
 @keyframes downdown {
@@ -173,8 +175,10 @@ h3 {
 		animation-duration: 2s;
     		animation-iteration-count: infinite;
     		animation-timing-function: ease;
-		height: 300px;
-		width: 300px;
+		height: 350px;
+		width: 350px;
+		border-radius: 10px;
+		transform: rotate(-12deg);
 	}
 
 .content {
