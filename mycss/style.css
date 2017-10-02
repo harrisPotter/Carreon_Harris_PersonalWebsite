@@ -31,8 +31,14 @@ h1 {
 	
 	font-weight: 100;
 	letter-spacing: 6px;
-	font-size: 30px;
+	font-size: 40px;
    }
+
+h3 {
+
+	font-weight: 100;
+
+    }
 
 .social-links {
 		   font-size: 30px;
@@ -82,10 +88,13 @@ h1 {
 		     text-align: center;
 		 }
 
-.nav_bar ul li a:hover {
+.nav_bar ul li a:hover{
 			   text-decoration: none;
 			   color: #2E86C1;
+			   outline: none;
 			}
+
+
 
 * {box-sizing:content-box}
 
