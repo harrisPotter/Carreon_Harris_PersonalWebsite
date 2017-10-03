@@ -7,6 +7,7 @@ html {
 	  font-family: WatGoth1, AngelicWar, Roboto, Hickory Jack;
 
      }
+body{position:fixed;}
 
 @font-face {
 	font-family: "Hickory Jack";
