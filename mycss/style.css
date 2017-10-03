@@ -235,3 +235,40 @@ h3 {
 		margin: auto;
 		margin-top: ;
 		}
+
+.contact {
+		width: 400px;
+	height: 400px;
+	background: #32D5F5;
+	color: white;
+	padding: 40px;
+	margin-left: auto;
+ 	margin-top: -480px;
+ 	margin-right: 250px;
+	text-align: center;
+	border-radius: 10px;
+	}
+.details {
+		font-family: Roboto;
+		color: black;
+		text-align: left;
+		letter-spacing: 1px;
+	}
+
+.phone {
+		
+		width: 400px;
+		height: 400px;
+		padding: 40px;
+		margin-left: 150px;
+}
+
+.tele {
+		animation-name: downdown;
+		animation-duration: 2s;
+    		animation-iteration-count: infinite;
+    		animation-timing-function: ease;
+		height: auto;
+		width: 350px;
+		border-radius: 10px;
+}
