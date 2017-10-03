@@ -49,14 +49,6 @@ h3 {
 
     }
 
-.social-links {
-		   font-size: 30px;
-	      }
-
-.social-links a {
-		   color: white;
-	       }
-
 .line {
 	  width: 400px;
 	  margin: 0;
@@ -238,21 +230,23 @@ h3 {
 
 .contact {
 		width: 400px;
-	height: 400px;
-	background: #32D5F5;
-	color: white;
-	padding: 40px;
-	margin-left: auto;
- 	margin-top: -480px;
- 	margin-right: 250px;
-	text-align: center;
-	border-radius: 10px;
+		height: 400px;
+		background: #32D5F5;
+		color: white;
+		padding: 40px;
+		margin-left: auto;
+ 		margin-top: -480px;
+ 		margin-right: 250px;
+		text-align: center;
+		border-radius: 10px;
 	}
+
 .details {
 		font-family: Roboto;
 		color: black;
 		text-align: left;
 		letter-spacing: 1px;
+		font-size: 20px;
 	}
 
 .phone {
@@ -272,3 +266,10 @@ h3 {
 		width: 350px;
 		border-radius: 10px;
 }
+
+.numbers {
+		font-family: Roboto;
+		color: black;
+		text-align: left;
+		letter-spacing: 1px;
+	}
