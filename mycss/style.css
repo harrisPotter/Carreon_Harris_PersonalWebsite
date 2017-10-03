@@ -214,3 +214,24 @@ h3 {
 	float: left;
 }
 
+.mygal{
+	height: 125%;
+	width: 50%;
+	margin: auto;
+	padding: 40px;
+	background: rgba(0,0,0,0.5);
+	border-radius: 10px;
+}
+
+.mygallery {	
+		height: 100px;
+		weight: 500px;
+		background: rgba(0,0,0,0.5);
+		font-family:Hickory Jack;
+		font-size: 100px;
+		text-align:center;
+		font-weight: 1000;
+		color: #2E86C1;
+		margin: auto;
+		margin-top: ;
+		}
