@@ -188,7 +188,8 @@ h3 {
 
 .content {
 		font-family: Hickory Jack;
-		font-size: 50px;
+		font-size: 60px;
+		font-style: italic;
 		margin-top: auto;
 		margin-bottom: auto;
 	}
