@@ -7,15 +7,13 @@ html {
 	  font-family: WatGoth1, AngelicWar, Roboto, Hickory Jack;
 
      }
-body{position:fixed;}
+
 
 @font-face {
 	font-family: "Hickory Jack";
 	src: url(../Fonts/fonts/Hickory Jack.ttf);
 	font-family: "WatGoth1";
 	src: url(../Fonts/fonts/WatGoth1.ttf);
-	
-
 	}
 
 .prof-box {
@@ -200,3 +198,19 @@ h3 {
 		font-size: 15px;
 		color: #B0BE20;
 	   }
+
+.gallery {
+    margin: 5px;
+    border: 1px solid #777;
+    float: left;
+
+}
+
+.gallery:hover {
+    border: 1px solid #ccc;
+}
+
+.gallery img {
+	float: left;
+}
+
